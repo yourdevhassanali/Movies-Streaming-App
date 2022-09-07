@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1098643077663",
+    "firebase_url": "https://moviestream-abc9c-default-rtdb.firebaseio.com",
+    "project_id": "moviestream-abc9c",
+    "storage_bucket": "moviestream-abc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098643077663:android:38f03bfb7ea4122d29f32a",
+        "android_client_info": {
+          "package_name": "com.hassan.moviestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098643077663-khshl8r7fjt3fralqpa3pk40sbvn41lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQSblyipTI64mmYwBAuAEPeQCTD65um0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098643077663-khshl8r7fjt3fralqpa3pk40sbvn41lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098643077663:android:c379f506e06d820929f32a",
+        "android_client_info": {
+          "package_name": "com.hassan.moviestreamclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098643077663-khshl8r7fjt3fralqpa3pk40sbvn41lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQSblyipTI64mmYwBAuAEPeQCTD65um0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098643077663-khshl8r7fjt3fralqpa3pk40sbvn41lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

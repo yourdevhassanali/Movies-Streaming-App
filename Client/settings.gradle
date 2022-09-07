@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        jcenter()
+    }
+}
+
+rootProject.name = "MovieStreamClientApp"
+include ':app'
